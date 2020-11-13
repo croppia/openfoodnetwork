@@ -712,7 +712,7 @@ DEPENDENCIES
   dfc_provider!
   eventmachine (>= 1.2.3)
   factory_bot_rails (= 4.10.0)
-  ffaker (~> 2.11)
+  ffaker
   figaro
   foreigner
   foundation-icons-sass-rails
